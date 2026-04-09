@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Manjith Yadav**, a MERN Stack Developer passionate about building modern and scalable web applications.<br>I enjoy solving problems through code and continuously learning new technologies.<br>Currently focused on improving my full-stack development skills.<br>
+Hi, I'm **Manjith Yadav**, a MERN Stack Developer passionate about building modern and scalable web applications.<br>I enjoy solving problems through code and continuously learning new technologies.
 
 
 ## 🌐 Socials:
